@@ -15,7 +15,7 @@ npm run dev
 
 อย่าลืมแก้ `OMISE_PUBLIC_KEY` และ `OMISE_SECRET_KEY` ในไฟล์ `.env` ด้วยน้า  
 
-```
+```env
 OMISE_PUBLIC_KEY = 
 OMISE_SECRET_KEY = 
 ```
