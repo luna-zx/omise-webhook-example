@@ -6,7 +6,7 @@
 
 ### วิธีการทดสอบ
 
-```
+```bash
 git clone https://github.com/luna-zx/omise-webhook-example.git
 cd omise-webhook-example
 bun install
