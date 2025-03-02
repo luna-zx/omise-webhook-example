@@ -31,3 +31,4 @@ ngrok http http://localhost:3000
 
 เอา ngrok url ไปใส่ใน Omise (Omise Dashboard -> Settings -> Webhooks -> เพิ่ม https://xxxxxx.ngrok-free.app/webhook)
 
+เวลาสร้าง charge (QR Code) ถ้าเป็น test mode อาจจะเข้าไปดูใน Omise Dashboard -> Charges แล้วเปลี่ยน status เป็นชำระเงินแล้วก็ได้
