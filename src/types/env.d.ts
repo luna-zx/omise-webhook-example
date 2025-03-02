@@ -3,6 +3,5 @@ declare module "bun" {
         OMISE_PUBLIC_KEY: string
         OMISE_SECRET_KEY: string
         PORT: string
-        DATABASE_URL: string
     }
 }
