@@ -28,3 +28,6 @@ npm run dev
 ```bash
 ngrok http http://localhost:3000
 ```
+
+เอา ngrok url ไปใส่ใน Omise (Omise Dashboard -> Settings -> Webhooks -> เพิ่ม https://xxxxxx.ngrok-free.app/webhook)
+
